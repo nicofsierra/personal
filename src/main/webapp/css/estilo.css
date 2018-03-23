@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+.nav-wrapper {
+	background-color: #729fcf;
+}
+
+#titulo {
+	padding: 5%;
+}
+
+#bajada {
+	padding: 2%;
+}
+
+#col {
+	padding: 3%;
+	/* 	background-color: #729fcf; */
+	/* 	opacity: 0.5; */
+}
+
+.large.material-icons {
+	color: #729fcf;
+}
+
+.registro {
+	float: right;
+	padding-right: 1%;
+}
+
+.waves-effect.waves-light.btn {
+	background-color: #729fcf;
+}
+
+#ingreso {
+	margin-right: 5px;
+}
+
+.recuadro{
+	margin: 20% 30% 0 30% ;
+}
+
+.row.iform{
+	margin-left: 5%;
+}
